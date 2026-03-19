@@ -1,0 +1,12 @@
+[
+  {"studentId":"S001","programme":"Computing","year":1,"campus":"Sligo","age":18},
+  {"studentId":"S002","programme":"Business","year":2,"campus":"Galway","age":20},
+  {"studentId":"S003","programme":"Engineering","year":3,"campus":"Letterkenny","age":21},
+  {"studentId":"S004","programme":"Computing","year":2,"campus":"Sligo","age":19},
+  {"studentId":"S005","programme":"Business","year":1,"campus":"Galway","age":18},
+  {"studentId":"S006","programme":"Engineering","year":4,"campus":"Letterkenny","age":22},
+  {"studentId":"S007","programme":"Computing","year":3,"campus":"Sligo","age":21},
+  {"studentId":"S008","programme":"Business","year":2,"campus":"Galway","age":20},
+  {"studentId":"S009","programme":"Engineering","year":1,"campus":"Letterkenny","age":18},
+  {"studentId":"S010","programme":"Computing","year":4,"campus":"Sligo","age":23}
+]
